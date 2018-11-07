@@ -1,0 +1,8 @@
+this is a test file.
+add this line.
+<<<<<<< HEAD
+another add this line.安抚沙发
+=======
+another a阿斯顿发生dd this line.发的说法阿斯顿发爱迪生发送到
+>>>>>>> 94949f642a1dbca3f79f889257f8651c19215c9b
+conflicts.
